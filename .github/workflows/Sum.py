@@ -1,3 +1,4 @@
 def sum(a,b):
   return a+b
-print(sum(2,6))
+a,b=int(input()),int(input())
+print(sum(a,b))
